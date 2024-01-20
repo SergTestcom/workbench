@@ -29,6 +29,7 @@
 
             
             body{
+                background-image: url('img/background1.png'), url('img/background2.png'), url('img/background3.png')
                 animation: snow 30s liner infinite;
             }
         </style>
